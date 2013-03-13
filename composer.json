@@ -1,0 +1,7 @@
+{
+    "name": "mysnewtest/newtest",
+    "require": {
+        "php": ">=5.3.0",
+        "mysnewtest/newtest": "1.*"
+    }
+}
